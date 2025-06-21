@@ -1,4 +1,4 @@
-# github-repo-lead-time-analysis
+# github-lead-time-analysis
 
 Python notebook to analyze lead time of issues in most popular GitHub repositories in two groups: with <=1 and >=2 maintainers in the comments.
 
