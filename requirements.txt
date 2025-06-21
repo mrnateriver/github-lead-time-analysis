@@ -1,0 +1,22 @@
+# GitHub Repository Lead Time Analysis Dependencies
+# Generated from jupyter notebook dependencies
+
+# HTTP requests for GitHub API
+requests>=2.31.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Data visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Jupyter notebook support (recommended for virtual environments)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Enhanced notebook experience
+notebook>=6.5.0
